@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yannbouhadana@gmail.com
+	name = Yann Bouhadana
